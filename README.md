@@ -1,5 +1,10 @@
 👋 Hi, I’m @2riing !
 
+
+Naver blog(note) : https://blog.naver.com/2riing
+
+Tistory(pjt) : https://2riing.tistory.com/
+
 <!---
 2riing/2riing is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
