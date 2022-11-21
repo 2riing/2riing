@@ -1,4 +1,5 @@
-👋 Hi, I’m @2riing !
+👋 Hi, I’m @2riing ! 
+
 
 <br/>
 <br/>
@@ -7,7 +8,6 @@ Naver blog(note) : https://blog.naver.com/2riing
 
 Tistory(pjt) : https://2riing.tistory.com/
 
-<br/>
 <br/>
 
 <!---
