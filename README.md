@@ -3,6 +3,7 @@
 
 <br/>
 <br/>
+Notion: https://www.notion.so/Portfoilo-3d852f8eb4af4316b91ab71f873ef7ca
 
 Naver blog(note) : https://blog.naver.com/2riing
 
