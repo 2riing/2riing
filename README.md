@@ -1,7 +1,5 @@
 👋 Hi, I’m @2riing ! !
 
-
-<br/>
 <br/>
 
 Notion: https://www.notion.so/Portfoilo-3d852f8eb4af4316b91ab71f873ef7ca
