@@ -4,7 +4,7 @@
 <br/>
 
 
-## 🔎아래 링크를 클릭하면 Notion Portfoilo 페이지로 이동합니다 !
+## 🔎 아래 링크를 클릭하면 Notion Portfoilo 페이지로 이동합니다 !
 
 <a href="https://www.notion.so/Portfoilo-3d852f8eb4af4316b91ab71f873ef7ca" target="_blank">
 <img src="https://user-images.githubusercontent.com/97645988/204972672-79ce7582-01ef-4164-8dfb-e389bd842817.png" width="500px"  />
