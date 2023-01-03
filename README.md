@@ -1,9 +1,6 @@
 👋 Hi, I’m @2riing ! !
 
 
-<br/>
-
-
 ## 🔎 아래 링크를 클릭하면 Notion Portfoilo 페이지로 이동합니다 !
 
 <a href="https://www.notion.so/Portfoilo-3d852f8eb4af4316b91ab71f873ef7ca" target="_blank">
