@@ -27,8 +27,7 @@ Frameworks and Libraries
 
 Tool
 
-<img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/jira-0052CC?style=flat&logo=jira&logoColor=white"/> <img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white"/> <img src="https://img.shields.io/badge/vercel-000000?style=flat&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/jira-0052CC?style=flat&logo=jira&logoColor=white"/> <img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white"/> <img src="https://img.shields.io/badge/vercel-000000?style=flat&logo=vercel&logoColor=white"/> 
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=2riing)](https://solved.ac/2riing/)
