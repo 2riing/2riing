@@ -3,22 +3,27 @@
 
 
 <a href="https://www.notion.so/Portfoilo-3d852f8eb4af4316b91ab71f873ef7ca" target="_blank">
-노션 Protfoilo
+📒 노션 Protfoilo
 </a>
 <br/>
 <a href="https://my2riing.vercel.app/" target="_blank">
-my2riing Profile
+👩‍💻 my2riing Profile
 </a>
 
 <br/>
 <br/>
 
-Naver blog(note) : https://blog.naver.com/2riing
+<a href="https://blog.naver.com/2riing" target="_blank">
+✔ Naver blog(note)
+</a>
 
-Tistory(pjt) : https://2riing.tistory.com/
+<a href="https://velog.io/@2riing" target="_blank">
+✔ velog
+</a>
+
 
 <br/>
-
+<br/>
 
 Usewell
 
